@@ -1,11 +1,11 @@
 import React from "react";
 
 const Header = () => {
-    return(
-        <header>
-            <h2>Naru's Movie App</h2>
-        </header>
-    )
-}
+  return (
+    <header>
+      <h2>Movie App</h2>
+    </header>
+  );
+};
 
-export default Header
+export default Header;
